@@ -1,0 +1,11 @@
+root = true
+
+/*
+  É possível escolher para quais tipos de arquivos a configuração será válida
+  [*]   é para todas as extensões
+  [.js] é somente para arquivos com extensão .js
+*/
+
+[*]
+indent_style = space
+indent_size = 2
